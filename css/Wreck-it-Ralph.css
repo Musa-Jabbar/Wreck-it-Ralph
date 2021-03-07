@@ -4,7 +4,7 @@ body{
     font-size: 20px;
     line-height: 30px;
 }
-
+/* Header Styles */
 header{
     background-color: #d14635;
     text-align: center;
@@ -26,7 +26,7 @@ header img{
     width: 300px;
     border: 20px solid white;
 }
-
+/* Main Styles */
 main{
     max-width: 800px;
     margin: 0 auto;
@@ -50,7 +50,7 @@ a:hover{
     color: white;
     background-color: #483a94;
 }
-
+/* Footer Styles */
 footer p{
     margin: 0;
 }
